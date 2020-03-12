@@ -21,6 +21,7 @@ secure:
       - /admin/register
       - /register
       - /login
+      - /api/resource
 
 role:
   name: regular
